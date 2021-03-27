@@ -1,0 +1,20 @@
+{
+  "name": "learn01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "superagent": "^6.1.0"
+  },
+  "devDependencies": {
+    "@types/superagent": "^4.1.10"
+  }
+}
